@@ -6,7 +6,7 @@ This python script scrapes the data from the website https://www.elsevier.com/se
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-python elsevier_scraper.py
+python script.py
 ```
 
 You can find the output in the `results.xlsx` file.
