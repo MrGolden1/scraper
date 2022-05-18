@@ -1,4 +1,4 @@
-This python script scrapes the data from the website https://www.elsevier.com/search-results?labels=journals&in-publication=true and outputs journals that have "Your paper Your way" option int their `Guide for Authors` section.
+This python script scrapes the data from the website [elsevier](https://www.elsevier.com/search-results?labels=journals&in-publication=true) and outputs journals that have "Your paper Your way" option int their `Guide for Authors` section.
 
 ## Usage
 
